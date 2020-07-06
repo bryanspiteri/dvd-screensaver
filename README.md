@@ -9,5 +9,4 @@ Use the scrollwheel to change the speed of the DVD icon. A separate window is la
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/azxxD-lFBA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![YouTube Video](https://img.youtube.com/vi/azxxD-lFBA8/0.jpg)](https://www.youtube.com/watch?v=azxxD-lFBA8)
